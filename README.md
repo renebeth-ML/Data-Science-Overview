@@ -1,0 +1,1 @@
+The files named as 'Cities', 'Players' and 'Titanic' as sample lists of data that can be subjected in three machine learning approaches. The machine learning approaches here are the following: (1) Regression, (2) Classification, and (3) Deep Neural Networks.
